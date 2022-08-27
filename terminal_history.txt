@@ -1,0 +1,50 @@
+  457  conda activate dev
+  458  conda list requests
+  459  conda list json
+  460  pip install python-dotenv
+  461  pip install alpaca-trade-api
+  462  conda list python-dotenv
+  463  conda list alpaca-trade-api
+  464  conda deactivate
+  465  conda activate dev
+  466  jupyter lab
+  467  jupyter lab --ContentsManager.allow_hidden=True
+  468  jupyter lab --ContentsManager.allow_hidden=True
+  469  conda deactivate
+  470  cd onedrive/boot_camp/class_activities/week_5_activities/class_1_activities/class_1_activities
+  471  git clone git@uwa.bootcampcontent.com:UWA-Bootcamp/UW-VIRT-FIN-PT-07-2022-U-B.git
+  472  conda activate dev
+  473  jupyter lab --ContentsManager.allow_hidden=True
+  474  conda deactivate
+  475  conda activate dev
+  476  jupyter lab --ContentsManager.allow_hidden=True
+  477  conda deactivate
+  478  conda activate dev
+  479  jupyter lab --ContentsManager.allow_hidden=True
+  480  jupyter lab --ContentsManager.allow_hidden=True
+  481  jupyer lab --ContentsManager.allow_hidden=True ----ServerApp.iopub_data_rate_limit
+  482  jupyter lab --ContentsManager.allow_hidden=True --ServerApp.iopub_data_rate_limit
+  483  jupyter lab ContentsManager.allow_hidden=True --ServerApp.iopub_data_rate_limit=False
+  484  jupyter lab --ContentsManager.allow_hidden=True --ServerApp.iopub_data_rate_limit=1000
+  485   jupyter lab --ContentsManager.allow_hidden=True --ServerApp.iopub_data_rate_limit=1.0e10
+  486  conda deactivate
+  487  cd onedrive/boot_camp/challenges/module_5_challenge
+  488  git clone git@github.com:lydiaciummo/financial-planning-tools.git
+  489  ls
+  490  cd financial_planning_tools
+  491  cd financial-planning-tools
+  492  git status
+  493  git add MCForecastTools.py
+  494  git add financial_planning_tools.ipynb
+  495  git status
+  496  git commit -m "Finished the code, calculations, and q&a section of the notebook"
+  497  git push
+  498  conda activate dev
+  499  jupyter lab --ContentsManager.allow_hidden=True
+  500  conda deactivate
+  501  cd onedrive/boot_camp/challenges/module_5_challenge/financial-planning-tools
+  502  git status
+  503  git add Images/
+  504  git add README.md
+  505  git add financial_planning_tools.ipynb
+  506  history 50 > terminal_history.txt
